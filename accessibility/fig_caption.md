@@ -12,14 +12,6 @@
   <main>
     <section>
       
-      <!-- Add your code below this line -->
-      <figure>
-        <!-- Stacked bar chart will go here -->
-        <br>
-        <figcaption>Breakdown per week of time to spend training in stealth, combat, and weapons.</figcaption>
-      </figure>
-      <!-- Add your code above this line -->
-      
     </section>
     <section id="stealth">
       <h2>Stealth &amp; Agility Training</h2>
